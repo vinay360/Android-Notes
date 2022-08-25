@@ -1,0 +1,8 @@
+// Toast
+Toast.makeText(activity,text,Toast.LENGTH_SHORT).show()
+
+//Snackbar
+Snackbar.make(view, text, Snackbar.LENGTH_SHORT).show()
+
+//ScrollView
+android:fillViewPort = true
